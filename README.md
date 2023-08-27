@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-- 🌱 I’m currently learning **Ciberseguridad, Front-end, back-end**
+- 🌱 I’m currently learning Ciberseguridad, Front-end, back-end
 
 
 
